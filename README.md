@@ -1,5 +1,5 @@
 # Gershgorin
-Visualize the Gershgorin discs that bound the spectrum of a square matrix.
+Visualize the Gershgorin discs that bound the spectrum of a square matrix (see the [Gershgorin disc theorem](https://en.wikipedia.org/wiki/Gershgorin_circle_theorem)).
 
 ## Installation
 
