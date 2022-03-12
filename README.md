@@ -37,3 +37,4 @@ plt.show()
 ## Useful Tips
 - A matrix and its transpose have the same eigenvalues, so the intersection of the Gershgorin discs of a matrix and its transpose will bound the eigenvalues (can be tighter than either individual region)
 - If a matrix is symmetric, its eigenvalues are guaranteed to be real-valued (by the Spectral Theorem), so you can restrict your Gershgorin region to the intersection of the discs and the real axis
+- There are many [corollaries of Gershgorin's Theorem](https://www.wikiwand.com/en/Gershgorin_circle_theorem#Strengthening_of_the_theorem) that can be used to strengthen the interpretation of the discs of a matrix
